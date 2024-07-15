@@ -9,7 +9,7 @@ page:
 template:
   uptree:
     enable: true
-  theme: orange
+  theme: green
 
   sidebar:
     enable: true
@@ -18,7 +18,7 @@ template:
   breadcrumbs:
     enable: false
   
-  # iconUrl: something
+  iconUrl: /media/avatar.png
 
   # If you are hosting on GitLab Pages, you may want to remove this.
   urlStrategy: pretty
