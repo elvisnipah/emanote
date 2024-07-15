@@ -1,0 +1,7 @@
+---
+slug: media
+---
+
+```query
+children:.
+```
