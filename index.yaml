@@ -4,7 +4,9 @@
 page:
   siteTitle: Elvis Nipah
   siteName: Elvis
-  siteUrl: http://blog.elvisnipah.com
+  siteUrl: https://blog.elvisnipah.com
+  lang: en
+  image: ""
 
 template:
   uptree:
@@ -20,5 +22,6 @@ template:
   
   iconUrl: /static/avatar.png
 
+  baseUrl: /
   # If you are hosting on GitLab Pages, you may want to remove this.
   urlStrategy: pretty
