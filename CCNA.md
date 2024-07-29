@@ -30,6 +30,6 @@ Practice tests were also from Jeremy's IT Lab: [Test 1](https://courses.jeremysi
 
 I've been using the flashcard application [Anki](https://apps.ankiweb.net) for a few years now, so Jeremy having premade decks made everything much simpler for me.
 
-Keith Barker's [Onlize Quiz YouTube playlist](https://youtube.com/playlist?list=PLQQoSBmrXmrwZD-0fZVMieVRjI4k-fowj&si=Xc-0fVG9rQDMpRuv) was great as well.
+Keith Barker's [Online Quiz YouTube playlist](https://youtube.com/playlist?list=PLQQoSBmrXmrwZD-0fZVMieVRjI4k-fowj&si=Xc-0fVG9rQDMpRuv) was great as well.
 
 The test cost $300 (GH₵4,650 at the time) to take.
